@@ -1,11 +1,28 @@
 body{
-    background-color: rgb(108, 108, 109);
+   
+}
+
+#banner{
+ width: 100%;
+}
+
+.principal {
+ background: #cccccc;
+ padding: 30px;
 }
 
 h1{
-text-align: center;
+    text-align: center;
 }
 
 p{
     text-align: center;
+}
+
+#missao{
+ font-size: 20px;
+}
+
+em strong {
+ color: red;
 }
