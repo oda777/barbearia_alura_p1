@@ -24,5 +24,29 @@ p{
 }
 
 em strong {
- color: rgb(99, 99, 99);
+ color: red;
+}
+
+.itens {
+   font-style: italic;
+}
+
+.beneficios {
+   background: #ffffff;
+   padding: 20px;
+}
+
+h2 {
+   text-align: center;
+}
+
+ul {
+   display: inline-block;
+   vertical-align: top;
+   width: 20%;
+   margin-rigth: 15%;
+}
+
+.imagem_beneficios {
+   width: 50%;
 }
